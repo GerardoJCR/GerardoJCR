@@ -1,86 +1,97 @@
-<h1 align="center">Hi 👋, I'm Gerardo Chevarria</h1>
-<h3 align="center">Soy egresado de Ingeniería de Software y actualmente estudio Ingeniería de Sistemas. Mi formación académica me ha proporcionado una sólida base en desarrollo de software, análisis de sistemas y resolución de problemas tecnológicos. Estoy apasionado por aprender y aplicar nuevas tecnologías para crear soluciones innovadoras y eficientes. Busco constantemente oportunidades para crecer profesionalmente y contribuir con mis habilidades en proyectos desafiantes.
+<h1 align="center">
+¡Hola, soy Gerardo Chevarria!
+  <a href="https://github.com/Bouaskaoun" target="_self">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
+</h1>
+<br>
+<div align="center">
+  
 
-.</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Egresado+en+Ingenieria+de+Software;Enfocado+en+el+Desarrollo+Web;Siempre+aprendiendo+cosas+nuevas;Apasionado+por+la+tecnologia+y+la+Innovación;Comprometido+con+la+excelencia+técnica;"></a>
+</p>
+</div>
+<!-- Divisor horizontal (gradiente) -->
+
+
+<!-- Divisor horizontal (gradiente) -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" height="400" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre mi</b>
+
+🔭 Actualmente buscando oportunidades de trabajo.
+
+👯 Me gusta aprender nuevas tecnologías y estoy siempre en la búsqueda de oportunidades para expandir mis conocimientos.
+
+💬 En mis ratos libres me gusta tocar la guitarra, además de escuchar música para relajarme y encontrar inspiración.
+
+😄 Disfruto creando páginas web como pasatiempo y explorando nuevas técnicas de diseño y desarrollo.
+
+⚡ Estoy constantemente buscando nuevas formas de mejorar mis habilidades y contribuir a proyectos interesantes.
 
 <br>
 
-
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **adampithewan@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img align="center"
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contácta conmigo</b>
+</br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gerardo-josias-chevarria-rodriguez/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/adampithewan" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwala" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gerardo-josias-chevarria-rodriguez/" target="blank"><img align="center"
+      src="https://www.svgrepo.com/show/353655/discord-icon.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gerardo-josias-chevarria-rodriguez/" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png"
+      alt="adam pithewan" height="30" width="40" /></a>
 </p>
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40"
-      height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
-      width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
-
-<br>
 
 
+
+
+<!-- Tabla para centrar la imagen y los iconos -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes y herramientas</b>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <!-- Imagen a la izquierda -->
+      <img height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif">
+    </td>
+    <td style="border: none;">
+      <!-- Contenedor para los iconos -->
+      <div>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=git,html,css,js,react,bootstrap" /> 
+          <br/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+</br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Estadisticas de GitHub</b>
+
+<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+
+</p>
+
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<!-- STATS Y LENGUAJES MAS USADOS -->
+<div style="display: grid; align-items: center; justify-content: center;">
+  <img style="height: 100%; width: 49%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=GerardoJCR&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" />
+  <img style="height: 100%; width: 49%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoJCR&layout=compact&theme=gotham&langs_count=8" />
+</div>
+
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+------
