@@ -74,22 +74,8 @@
 </table>
 </br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Estadisticas de GitHub</b>
-
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
-
-</p>
-
-<!-- STATS Y LENGUAJES MAS USADOS -->
-<!-- STATS Y LENGUAJES MAS USADOS -->
-<div style="display: grid; align-items: center; justify-content: center;">
-  <img style="height: 100%; width: 49%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=GerardoJCR&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" />
-  <img style="height: 100%; width: 49%; max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardoJCR&layout=compact&theme=gotham&langs_count=8" />
-</div>
 
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
