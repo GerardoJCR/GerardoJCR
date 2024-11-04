@@ -33,19 +33,7 @@ Hello, I am Gerardo Chevarria!
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contact me</b>
-</br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/gerardo-josias-chevarria-rodriguez/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/gerardo-josias-chevarria-rodriguez/" target="blank"><img align="center"
-      src="https://www.svgrepo.com/show/353655/discord-icon.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/gerardo-josias-chevarria-rodriguez/" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/1022px-WhatsApp.svg.png"
-      alt="adam pithewan" height="30" width="40" /></a>
-</p>
+
 
 <!-- Table to center image and icons -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
