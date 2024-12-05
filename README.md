@@ -80,8 +80,9 @@ Hello, I am Gerardo Chevarria!
   <br>
   <br>
 
-
   ![snake gif](https://github.com/GerardoJCR/GerardoJCR/blob/output/github-snake-dark.svg)
+
+   
 <!--   <a href="https://www.buymeacoffee.com/GerardoJCR"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="GerardoJCR" /></a> -->
 </p>
 
